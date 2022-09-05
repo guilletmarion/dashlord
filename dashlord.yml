@@ -488,3 +488,8 @@ urls:
     betaId: la-bonne-alternance
     repositories:
       - mission-apprentissage/labonnealternance
+  - url: https://sppnaut.beta.gouv.fr
+    category: startup
+    betaId: sppnaut
+    repositories: 
+      - betagouv/SPPNautInterface
